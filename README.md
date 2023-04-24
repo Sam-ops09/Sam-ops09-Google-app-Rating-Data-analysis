@@ -1,2 +1,42 @@
-# Sam-ops09-Google-app-Rating-Data-analysis
-There are more than 3.04 million apps found on Google Play Store. With this project /article we want you to take us through a journey of analyzing various apps found on the play store with the help of different python libraries. Dataset: The dataset is been taken from Kaggle, which can be found in the attachments.  App rating, reviews, price, and installs have been analyzed against their respective categories. Dataset has been cleaned and downloaded from Kaggle. You must present an entire overview of the relationship between all the parameters and how do they add to the efficiency of the product. (Compare the parameters to analyze the profit margins of the application)
+# Google App Rating Data Analysis
+
+This project aims to analyze the Google Play Store app rating data using Python programming language.
+
+## Data
+
+The dataset used in this project is "googleplaystore.csv" which can be downloaded from [here](https://www.kaggle.com/lava18/google-play-store-apps).
+
+## Requirements
+
+This project requires the following libraries:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+
+## Installation
+
+To install the required libraries, run the following command:
+
+```
+pip install -r requirements.txt
+```
+
+## Usage
+
+To run the project, run the following command:
+
+```
+python app.py
+```
+
+This will generate a number of visualizations that explore different aspects of the data.
+
+## Results
+
+The results of this analysis can be found in the "results" directory. This includes a number of visualizations that explore different aspects of the data.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
